@@ -38,7 +38,7 @@ public class APIAccessHandler {
     /*final OAuth10aService serviceOBP = new ServiceBuilder()
             .apiKey("pyffeedn4m4mfvfzcay00gpf3wtxlotje3fjvhcq")
             .apiSecret("k2s10ot4sie5xs51iaoyrhcuk3wryk0bw514l0mo")
-            .callback("https://my-reckoning.herokuapp.com/ReckonINGExample/callBack/")
+            .callback("https://auth-reckoning.herokuapp.com/ReckonINGExample/callBack/")
             .build(OBPApi.instance());
 
     private String userEndPoint = "https://apisandbox.openbankproject.com/obp/v2.0.0/users/current";

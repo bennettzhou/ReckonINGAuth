@@ -39,12 +39,12 @@ public class INGConstant {
         //initialize
         if(Credentials == null) {
             Credentials = new Vector<String>();
-            Credentials.add("4ynabm3l0uvbijpgg202sdg5xh5w4mcsp2yexncb:dnhza1xxje25dmauhgbcwgoydgi0ohht0x4q2dnm");
-            Credentials.add("jldfdsj2tgpugmvs3q5rjcyisaro50mfokxhvzzk:pyl2yvjprppmqnx3xswhjawerd34kn2igms2ydjj");
-            Credentials.add("fpals0435k42zgyameazpfqrxm0pdvxylk2gxadd:4hq0hhbofxyjpmhvxu4bg4rswse41fwz2pdgfexv");
-            Credentials.add("ff5ozmaatrfeb00t0iufgy0io5gtbod4ld51yyum:bcluzbfmphrvr31pprarp2uetlzzfhqnwu235o1t");
-            Credentials.add("g04y3vvisolazint0pt3jhnjl5yhw5ftpebiovpg:tll5mg0qrtgjvydbppvbggykgf5rpfikgkdchj03");
-            Credentials.add("ev4lqvijt0ffepqbsbtl3yqfcodeqg0ltu3qtb2u:wpvf1gaculsmrc33wib1pwb0iqbgmsyvnk2gldol");
+            Credentials.add("gz2nwffrme5b1uq4yv3mxxvsneraopbjr2bziu4x:do4vpv5e5a0oezhfqdx0egdsriuya5dtigmho1sv");
+            Credentials.add("foevgypnjyc1sw5vtwb5bvujnpvssgv1u31aasgv:vdvdz4wdrpl4ui3zz1vph12howwnll5sctvgwfuc");
+            Credentials.add("is0l2vtihve1uyrga4qi3f4xzfnsoiyqee22bmkv:ohz2xydxxfczit0sxe44z5wvagbfrsra5jr4uswz");
+            Credentials.add("rocwy5b4uptia05fvg13rmulby2l12vl3fndr0xb:g2adj005y4kpx0kaoe0un1tkng2lcwtclvza1ccf");
+            Credentials.add("fsc1gvcvjz54we4jhtgwljsb5ixgvcfnw2da203i:4zibylysxiz2dxf5oagg5pe4n2heqgsg1lj0z3df");
+            Credentials.add("serfir2lrm4lj1zwl2q452bbsdyzxq1smbyqs0v5:do5unhtoxe1wrdofu5dnk55xgeojsi4bmdq3gunv");
         }
         initiateServices();
         log.info("INGConstant created...");
