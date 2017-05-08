@@ -122,7 +122,7 @@ public class APIAccessHandler {
         return status;
     }
 
-    public synchronized String getAPIResponse(String username, String apiURL) {
+    public String getAPIResponse(String username, String apiURL) {
         Response applResponse = null;
         OAuth1AccessToken apiAccessToken;
         OAuth10aService serviceOBP = INGCONSTANT.getServices();
